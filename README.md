@@ -11,7 +11,7 @@ Steps:
     3. `epilepsy.db`
   Each database is based on their `/r/subredditname`
 3. Filter on the columns to explore the data.
-![explore data](https://github.com/eveafeline/keto_analysis/assets/browse_data.png)
+![explore data](https://github.com/eveafeline/keto_analysis/blob/master/assets/browse_data.png)
 
 You can also use raw sql to explore the data if you are more comfortable with it.
 
